@@ -1,4 +1,3 @@
-layout_spectrum: 0.6758109393995255
 typography_spectrum: 0.7730398566927761
 color:
   brandStrength: 0.8359096685890108
@@ -11,7 +10,11 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Samuel Ört
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5b92220-81e6-4e56-945e-ff9b371a6856.jpg
+layout_spectrum: 0.6758109393995255
 author:
   name: Samuel Ört
   email: orts@student.chalmers.se
+name: Samuel Ört
