@@ -1,19 +1,19 @@
-typography_spectrum: 0.7730398566927761
+typography_spectrum: 0.7431853821035475
 color:
-  brandStrength: 0.8359096685890108
-  lightness: 0.6155636147595942
-  saturation: 0.6831865734420717
-  rhythmicContrast: 0.9365357148926705
+  brandStrength: 0.6731273704208434
+  lightness: 0.7374575021676719
+  saturation: 0.5398632511496544
+  rhythmicContrast: 0.8057892036158592
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5b92220-81e6-4e56-945e-ff9b371a6856.jpg
-layout_spectrum: 0.6758109393995255
+layout_spectrum: 0.0043084993958473206
 author:
   name: Samuel Ört
   email: orts@student.chalmers.se
