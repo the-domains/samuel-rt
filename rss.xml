@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Samuel Ört]]></title>
-        <description><![CDATA[Samuel Ört]]></description>
+        <title><![CDATA[Always learning.]]></title>
+        <description><![CDATA[Always learning.]]></description>
         <link>https://thegrid.ai/samuel-rt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 18:56:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 09:03:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samuel-rt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6191258e-122d-4677-af5d-cdf55102722e.png">]]></description>
+            <link>https://thegrid.ai/samuel-rt/ac79cdcf-5b33-4856-b0a8-acab608e2a6a/index.html</link>
+            <guid isPermaLink="false">ac79cdcf-5b33-4856-b0a8-acab608e2a6a</guid>
+            <pubDate>Thu, 18 Aug 2016 09:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e5f6afe-7616-418a-a102-cf60d8ad8d02.png">]]></description>
+            <link>https://thegrid.ai/samuel-rt/1918e9d8-fbde-48e4-b559-2c5a4813225a/index.html</link>
+            <guid isPermaLink="false">1918e9d8-fbde-48e4-b559-2c5a4813225a</guid>
+            <pubDate>Thu, 18 Aug 2016 09:02:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eefd6a3-2f78-41c8-b0ef-9d90144ffe4b.jpg">]]></description>
