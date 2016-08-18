@@ -25,6 +25,9 @@ navigation:
   - name: LinkedIn
     url: 'http://www.linkedin.com/in/samuelort'
     type: external
+  - name: My Facebook
+    url: 'https://www.facebook.com/samuel.ort'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3f2fad7-c90f-443d-8bc1-888da9cec0f0.png
 title: Always learning.
