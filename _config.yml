@@ -1,4 +1,4 @@
-typography_spectrum: 0.6873486570548266
+typography_spectrum: 0.057728470768779516
 color:
   brandStrength: 0.9210857665166259
   lightness: 0.28931975457817316
@@ -13,7 +13,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5b92220-81e6-4e56-945e-ff9b371a6856.jpg
-layout_spectrum: 0.17173827881924808
+layout_spectrum: 0.5692865953315049
 author:
   name: Samuel Ört
   email: orts@student.chalmers.se
