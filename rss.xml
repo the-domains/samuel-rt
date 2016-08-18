@@ -2,28 +2,21 @@
     <channel>
         <title><![CDATA[Always learning.]]></title>
         <description><![CDATA[Always learning.]]></description>
-        <link>https://thegrid.ai/samuel-rt/</link>
+        <link>http://samuelort.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 10:20:30 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/samuel-rt/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3937371-11bd-4c8b-bbcc-e07c5bcf2365.png" alt="New Header. ">]]></description>
-            <link>https://thegrid.ai/samuel-rt/806b60cf-89b8-4e44-b5a8-846e80701bb2/index.html</link>
-            <guid isPermaLink="false">806b60cf-89b8-4e44-b5a8-846e80701bb2</guid>
-            <pubDate>Thu, 18 Aug 2016 10:20:28 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 18 Aug 2016 10:59:02 GMT</lastBuildDate>
+        <atom:link href="http://samuelort.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6191258e-122d-4677-af5d-cdf55102722e.png">]]></description>
-            <link>https://thegrid.ai/samuel-rt/ac79cdcf-5b33-4856-b0a8-acab608e2a6a/index.html</link>
+            <link>http://samuelort.me/ac79cdcf-5b33-4856-b0a8-acab608e2a6a/index.html</link>
             <guid isPermaLink="false">ac79cdcf-5b33-4856-b0a8-acab608e2a6a</guid>
             <pubDate>Thu, 18 Aug 2016 09:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e5f6afe-7616-418a-a102-cf60d8ad8d02.png">]]></description>
-            <link>https://thegrid.ai/samuel-rt/1918e9d8-fbde-48e4-b559-2c5a4813225a/index.html</link>
+            <link>http://samuelort.me/1918e9d8-fbde-48e4-b559-2c5a4813225a/index.html</link>
             <guid isPermaLink="false">1918e9d8-fbde-48e4-b559-2c5a4813225a</guid>
             <pubDate>Thu, 18 Aug 2016 09:02:20 GMT</pubDate>
         </item>
