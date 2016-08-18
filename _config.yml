@@ -20,3 +20,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9f11dbd-8e21-47fb-9530-8cc167e10841.jpg
 name: Samuel Ört
+navigation:
+  - name: LinkedIn
+    url: 'http://www.linkedin.com/in/samuelort'
+    type: external
