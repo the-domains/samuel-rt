@@ -4,7 +4,7 @@
         <description><![CDATA[Always learning.]]></description>
         <link>http://samuelort.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 12:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 14:32:08 GMT</lastBuildDate>
         <atom:link href="http://samuelort.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Header.]]></title>
@@ -12,6 +12,13 @@
             <link>http://samuelort.me/new-header/index.html</link>
             <guid isPermaLink="false">f70e23e6-6f41-4161-b060-41838f03cc2e</guid>
             <pubDate>Thu, 18 Aug 2016 12:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <description><![CDATA[<article><h1>Welcome!</h1><p>This is me, everything I do and have done will be posted here. So you can see who I am, what I stand for and where I will go.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f77f88dc464d7bbb18a10c93b428d81/croprotate.jpg?cropheight=2912&cropwidth=1942&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2d82f06f-10ac-4919-b27a-32e4bda1110b.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/73de16af-d6ef-49a9-88ed-48e12fb0edaf.tif</link>
+            <guid isPermaLink="false">7803b77c-40ae-47ed-b94f-07c22402d156</guid>
+            <pubDate>Thu, 18 Aug 2016 14:31:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>http://samuelort.me/1918e9d8-fbde-48e4-b559-2c5a4813225a/index.html</link>
             <guid isPermaLink="false">1918e9d8-fbde-48e4-b559-2c5a4813225a</guid>
             <pubDate>Thu, 18 Aug 2016 09:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome!]]></title>
-            <description><![CDATA[<article><h1>Welcome!</h1><p>This is me, everything I do and have done will be posted here. So you can see who I am, what I stand fore and where I will go.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f77f88dc464d7bbb18a10c93b428d81/croprotate.jpg?cropheight=2912&cropwidth=1942&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2d82f06f-10ac-4919-b27a-32e4bda1110b.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/73de16af-d6ef-49a9-88ed-48e12fb0edaf.tif</link>
-            <guid isPermaLink="false">7803b77c-40ae-47ed-b94f-07c22402d156</guid>
-            <pubDate>Mon, 04 Jul 2016 19:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
