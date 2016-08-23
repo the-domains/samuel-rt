@@ -4,21 +4,21 @@
         <description><![CDATA[Always learning.]]></description>
         <link>http://samuelort.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:35:42 GMT</lastBuildDate>
         <atom:link href="http://samuelort.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New Header.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e5c7e5-4bfe-4ccc-b0db-5323cba35ca1.png">]]></description>
-            <link>http://samuelort.me/new-header/index.html</link>
-            <guid isPermaLink="false">f70e23e6-6f41-4161-b060-41838f03cc2e</guid>
-            <pubDate>Tue, 23 Aug 2016 12:35:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Welcome!]]></title>
             <description><![CDATA[<article><h1>Welcome!</h1><p>This is me, everything I do and have done will be posted here. So you can see who I am, what I stand for and where I will go.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f77f88dc464d7bbb18a10c93b428d81/croprotate.jpg?cropheight=2912&cropwidth=1942&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2d82f06f-10ac-4919-b27a-32e4bda1110b.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/73de16af-d6ef-49a9-88ed-48e12fb0edaf.tif</link>
             <guid isPermaLink="false">7803b77c-40ae-47ed-b94f-07c22402d156</guid>
             <pubDate>Thu, 18 Aug 2016 14:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Header.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e5c7e5-4bfe-4ccc-b0db-5323cba35ca1.png">]]></description>
+            <link>http://samuelort.me/new-header/index.html</link>
+            <guid isPermaLink="false">f70e23e6-6f41-4161-b060-41838f03cc2e</guid>
+            <pubDate>Tue, 23 Aug 2016 12:35:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
